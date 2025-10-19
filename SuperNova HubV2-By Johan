@@ -1,4 +1,4 @@
--- deobf By Alejandro
+-- deobf By Alejandro 
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -8,13 +8,13 @@ local LocalPlayer = Players.LocalPlayer
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rafael25ic-blip/phoenix-cracked/refs/heads/main/Pheonix%20Private%20Librerya"))()
 
 -- VENTANA PRINCIPAL
-local window = library:AddWindow("👽🔥Super Nova Hub v2 || By Johan🔥👽", {
-    main_color = Color3.fromRGB(64, 224, 208), 
+local window = library:AddWindow("⚠️ Toxic PAID V2 | Cracked by Alejandro ⚠️", {
+    main_color = Color3.fromRGB(34, 56, 34), 
     min_size = Vector2.new(600, 820),
     can_resize = false,
 })
 
-local AutoFarm = window:AddTab("Farm")
+local AutoFarm = window:AddTab("Farm OP")
 AutoFarm:Show()
 
 
@@ -1648,7 +1648,7 @@ FolderDurabilidad:AddButton("Calculate Durability", function()
     end
 end)
 
-local Killer = window:AddTab("Farm KILL")
+local Killer = window:AddTab("Kills")
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -3798,7 +3798,7 @@ local urls = {
 }
 
 -- ⚡ Botón que ejecuta todos los scripts remotos
-Killer:AddButton("☠️🔥Pegar Muerto🔥☠️", function()
+Killer:AddButton("Pegar Muerto", function()
     for _, url in ipairs(urls) do
         spawn(function()
             local success, response = pcall(function()
@@ -4632,11 +4632,11 @@ Gift:AddButton(
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("Super Nova Hub v2 || By Johan")
-Credits:AddLabel("Tikto:Johan13098")
-Credits:AddLabel("Discord:Johan041258")
-Credits:AddLabel("Muy pronto una actualización")
-Credits:AddLabel("Script echo por las manos de Johan")
-Credits:AddLabel("Gracias por comprar el script Invita a tus amigos a comprarlo")
-Credits:AddLabel("Paid Version 100% funcional") 
-Credits:AddLabel("Diviertete usando el script🫶🏻)
+Credits:AddLabel("Toxic Paid V2 | Cracked")
+Credits:AddLabel("Script Desofuscado by Alejandro and Jesus my friend 🫂")
+Credits:AddLabel("aprendan a hacer Scripts sin chat gpt")
+Credits:AddLabel("MVX basura , ni Script saben hacer🔥")
+Credits:AddLabel("JASSON y Rafa y king, me pelan toda la verga")
+Credits:AddLabel("Álamo 137, Flores magon, 45417 Tonalá, Jalisco México, bonita casa")
+Credits:AddLabel("Rafael íñiguez castro ") 
+Credits:AddLabel("Se te invita que ofrescas una disculpa publica, asi mi ataque, disminuyera")
