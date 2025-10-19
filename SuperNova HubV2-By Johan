@@ -4632,7 +4632,7 @@ Gift:AddButton(
 
 local Credits = window:AddTab("Credits")
 
-CrediColor3.fromRG(Supernova Paid V2 | By Johan")
+Credits:AddLabel(Supernova Paid V2 | By Johan")
 Credits:AddLabel("Tiktok:Johan13098 🫂")
 Credits:AddLabel("Discord:Johan041258")
 Credits:AddLabel("Script echo por Johan")
