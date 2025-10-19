@@ -9,7 +9,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rafae
 
 -- VENTANA PRINCIPAL
 local window = library:AddWindow("💥 Super Nova Hub V2 | By Johan 💥", {
-    main_color = Color3.fromRGB(34, 56, 34), 
+    main_color = Color3.fromRGB(64, 224, 208), 
     min_size = Vector2.new(600, 820),
     can_resize = false,
 })
@@ -1403,8 +1403,6 @@ end, "Teletransporte continuo al Rey MÃºsculo")
 
 -- 📊 NUEVA PESTAÑA: STATS
 local features = window:AddTab("Stats")
-
-
 
 createSessionStats()
 createCurrentStats()
