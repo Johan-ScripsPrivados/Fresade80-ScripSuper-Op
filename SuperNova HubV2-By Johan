@@ -14,7 +14,7 @@ local window = library:AddWindow("💥 Super Nova Hub V2 | By Johan 💥", {
     can_resize = false,
 })
 
-local AutoFarm = window:AddTab("Farm OP")
+local AutoFarm = window:AddTab("Farm")
 AutoFarm:Show()
 
 
@@ -268,7 +268,7 @@ AutoFarm:AddSwitch("Anti AFK", function(state)
         uselesslabelone.Position = UDim2.new(0.3,0,0,0)
         uselesslabelone.Size = UDim2.new(0,95,0,24)
         uselesslabelone.Font = Enum.Font.SourceSans
-        uselesslabelone.Text = "Anti Afk sacado de chat gpt de rafael😂"
+        uselesslabelone.Text = "Anti Afk By Johan"
         uselesslabelone.TextColor3 = Color3.fromRGB(255,255,255)
         uselesslabelone.TextSize = 14
 
@@ -1648,7 +1648,7 @@ FolderDurabilidad:AddButton("Calculate Durability", function()
     end
 end)
 
-local Killer = window:AddTab("Kills")
+local Killer = window:AddTab("FarmKILLS")
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -4630,13 +4630,13 @@ Gift:AddButton(
 )
 
 
-local Credits = window:AddTab("Credits")
+local Credits = window:AddTab("Credits💥")
 
-Credits:AddLabel("Toxic Paid V2 | Cracked")
-Credits:AddLabel("Script Desofuscado by Alejandro and Jesus my friend 🫂")
-Credits:AddLabel("aprendan a hacer Scripts sin chat gpt")
-Credits:AddLabel("MVX basura , ni Script saben hacer🔥")
-Credits:AddLabel("JASSON y Rafa y king, me pelan toda la verga")
-Credits:AddLabel("Álamo 137, Flores magon, 45417 Tonalá, Jalisco México, bonita casa")
-Credits:AddLabel("Rafael íñiguez castro ") 
-Credits:AddLabel("Se te invita que ofrescas una disculpa publica, asi mi ataque, disminuyera")
+Credits:AddLabel("Super Nova Hub V2 | By Johan")
+Credits:AddLabel("Script By Johan")
+Credits:AddLabel("Paid Funcionando perfecto")
+Credits:AddLabel("Tiktok:johan13098")
+Credits:AddLabel("Discord:johan041258")
+Credits:AddLabel("Gracias por comprar el Scrip")
+Credits:AddLabel("Próximamente Otra actualización") 
+Credits:AddLabel("Super PAID 💥")
