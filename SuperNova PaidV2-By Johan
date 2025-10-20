@@ -4632,7 +4632,7 @@ Gift:AddButton(
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("Super Nova  Paid V2 | By Johan")
+Credits:AddLabel("Inferno Paid V2 | By Johan")
 Credits:AddLabel("Tikto:Johan13098")
 Credits:AddLabel("Discord:Johan041258")
 Credits:AddLabel("Diviertete usando el script")
