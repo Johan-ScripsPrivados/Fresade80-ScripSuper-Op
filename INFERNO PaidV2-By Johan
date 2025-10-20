@@ -8,9 +8,9 @@ local LocalPlayer = Players.LocalPlayer
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rafael25ic-blip/phoenix-cracked/refs/heads/main/Pheonix%20Private%20Librerya"))()
 
 -- VENTANA PRINCIPAL
-local window = library:AddWindow("💥 Inferno Paid V2 || By Johan 💥" - Hello "..display, {
+local window = library:AddWindow("💥 Inferno Paid V2 || By Johan 💥" - Hello ..display," {
     main_color = Color3.fromRGB(0, 0, 255), 
-    min_size = Vector2.new(650, 870),
+    min_size = Vector2.new(600, 820),
     can_resize = false,
 })
 
